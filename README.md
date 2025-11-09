@@ -53,8 +53,6 @@ PersonalFinanceApp/
 │   ├── Entities/
 │   │   ├── Wallet.cs
 │   │   └── Transaction.cs
-│   └── Enums/
-│       └── TransactionType.cs
 ├── PersonalFinanceApp.Data/            # Data Access Layer
 │   ├── Interfaces/
 │   │   └── IFinanceRepository.cs
